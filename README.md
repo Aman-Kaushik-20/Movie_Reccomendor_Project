@@ -10,7 +10,6 @@ This project is aimed at building a movie recommendation system using the TMDB 5
 4. [Usage](#usage)
 5. [File Structure](#file-structure)
 6. [Dependencies](#dependencies)
-7. [License](#license)
 
 ## Features
 
